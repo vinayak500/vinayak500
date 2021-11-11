@@ -1,2 +1,2 @@
 Hey There , I am Vinayak.
-[![Vinayak ](./assets/minato.png)]
+[![Vinayak](./assets/minato.png)]
