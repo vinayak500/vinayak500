@@ -1,5 +1,5 @@
 Hey There , I am Vinayak.
-  <img align="right" alt="GIF" src="https://github.com/vinayak500/vinayak500/blob/main/assests/minato2.jpg" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/vinayak500/vinayak500/blob/main/assests/minato2.jpg" width="300" height="300" />
   
 - 💼 any freelance work? do reach, [email](vinayakshetty500@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
