@@ -1,4 +1,3 @@
-Hi there , I am Vinayak Shetty.
 package main
 
 import (
