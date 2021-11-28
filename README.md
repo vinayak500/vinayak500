@@ -1,6 +1,6 @@
 Hey There , I am Vinayak.
 <br>
-  <img align="right" alt="GIF" src="https://github.com/vinayak500/vinayak500/blob/main/assests/rinObito1.png" width="300" height="300" />
+  <img align="right" alt="GIF" src="" width="300" height="300" />
   
 - 💼 any freelance work? do reach, [email](vinayakshetty500@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
