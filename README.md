@@ -1,6 +1,5 @@
 Hey There , I am Vinayak.
 <br>
-  <img align="right" alt="GIF" src="" width="300" height="300" />
   
 - 💼 any freelance work? do reach, [email](vinayakshetty500@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
