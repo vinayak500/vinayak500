@@ -1,7 +1,6 @@
 Hey There , I am Vinayak.
 <br>
   
-- 💼 any freelance work? do reach, [email](vinayakshetty500@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 
